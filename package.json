@@ -33,5 +33,9 @@
   },
   "dependencies": {
     "graphql-tag": "^2.10.1"
+  },
+  "scripts": {
+    "release": "npm publish --access public",
+    "release-tag": "npm run release -- --tag"
   }
 }
