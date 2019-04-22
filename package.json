@@ -1,0 +1,37 @@
+{
+    "name": "laravel-mix-graphql",
+    "description": "A Laravel Mix extension for GraphQL support for Webpack.",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pp-spaces/laravel-mix-graphql"
+    },
+    "author": {
+        "name": "Socheat",
+        "email": "socheatsok78@gmail.com",
+        "homepage": "https://socheat.net",
+        "role": "Developer"
+    },
+    "bugs": {
+        "url": "https://github.com/pp-spaces/laravel-mix-graphql/issues"
+    },
+    "homepage": "https://github.com/pp-spaces/laravel-mix-graphql#readme",
+    "keywords": [
+        "laravel",
+        "laravel mix",
+        "mix",
+        "webpack",
+        "graphql",
+        "graphql-loader",
+        "graphql-tag"
+    ],
+    "peerDependencies": {
+        "laravel-mix": ">=3.0.0",
+        "graphql": "^14.2.1"
+    },
+    "dependencies": {
+        "graphql-tag": "^2.10.1"
+    }
+}
