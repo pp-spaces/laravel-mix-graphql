@@ -5,18 +5,18 @@ A Laravel Mix extension for GraphQL support for Webpack.
 # Installation
 
 ```sh
-yarn add -D laravel-mix-graphql
+yarn add -D @pp-spaces/laravel-mix-graphql
 ```
 
 or
 
 ```sh
-npm install laravel-mix-graphql --save-dev
+npm install @pp-spaces/laravel-mix-graphql --save-dev
 ```
 
 # Laravel Mix Configuration
 
-In your `webpack.mix.js`, import `laravel-mix-graphql`:
+In your `webpack.mix.js`, import `@pp-spaces/laravel-mix-graphql`:
 
 ```js
 // webpack.mix.js
@@ -26,7 +26,7 @@ const mix = require("laravel-mix");
 /**
  * Import laravel-mix-graphql
  */
-require("laravel-mix-graphql");
+require("@pp-spaces/laravel-mix-graphql");
 
 /**
  * Register loader
