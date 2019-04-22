@@ -1,5 +1,9 @@
 # Laravel Mix GraphQL Extension
 
+![Downloads](https://img.shields.io/npm/dm/@pp-spaces/laravel-mix-graphql.svg)
+![Release](https://img.shields.io/npm/v/@pp-spaces/laravel-mix-graphql/latest.svg)
+![License](https://img.shields.io/github/license/pp-spaces/laravel-mix-graphql.svg)
+
 A Laravel Mix extension for GraphQL support for Webpack.
 
 # Installation
