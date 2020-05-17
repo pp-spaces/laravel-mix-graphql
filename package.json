@@ -1,7 +1,7 @@
 {
   "name": "@pp-spaces/laravel-mix-graphql",
   "description": "A Laravel Mix extension for GraphQL support for Webpack.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "repository": {
