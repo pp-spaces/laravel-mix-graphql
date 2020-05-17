@@ -28,11 +28,11 @@
     "graphql-tag"
   ],
   "peerDependencies": {
-    "laravel-mix": ">=3.0.0",
-    "graphql": "^14.2.1"
+    "graphql": "^14.2.1",
+    "laravel-mix": ">=3.0.0"
   },
   "dependencies": {
-    "graphql-tag": "^2.10.1"
+    "graphql-tag": "^2.10.3"
   },
   "scripts": {
     "release": "npm publish --access public",
